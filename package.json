@@ -1,0 +1,19 @@
+{
+  "name": "districts",
+  "version": "1.0.0",
+  "description": "Districts of Trinidad & Tobago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krsjoseph/districts.git"
+  },
+  "author": "Krs Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krsjoseph/districts/issues"
+  },
+  "homepage": "https://github.com/krsjoseph/districts#readme"
+}
