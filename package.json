@@ -1,6 +1,6 @@
 {
   "name": "districts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Districts of Trinidad & Tobago",
   "main": "index.js",
   "scripts": {
